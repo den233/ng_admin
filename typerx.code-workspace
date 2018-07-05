@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "packages/server"
+		},
+		{
+			"path": "packages/client"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
